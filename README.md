@@ -1,0 +1,2 @@
+# myfirstcode
+Just for practice 
